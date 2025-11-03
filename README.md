@@ -2,3 +2,4 @@ Um sistema de biblioteca para administração é uma aplicação desenvolvida pa
 Ele permite que os administradores cadastrem e atualizem livros, controlem empréstimos e devoluções, gerenciem usuários e acompanhem o histórico de movimentações.
 O sistema ajuda a organizar o estoque de livros, evitar extravios e otimizar o tempo dos funcionários, oferecendo uma interface prática e relatórios que facilitam o controle e a tomada de decisões
 dentro da biblioteca.
+(isso e somente um exemplo para organização do perfil)
